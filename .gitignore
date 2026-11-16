@@ -1,0 +1,6 @@
+Material-Professor/*
+!Material-Professor/README.md
+*.zip
+venv/
+.ipynb_checkpoints/
+.env
