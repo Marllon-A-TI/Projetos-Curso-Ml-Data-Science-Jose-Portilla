@@ -1,3 +1,5 @@
+Eu tenho um bloco de notas no 'OneNote' onde faço todas as minhas anotações, segue o link: https://1drv.ms/o/c/7ff970964535b7b0/IgB5qOER3AJcRYBKhTsKzwSaAfF_QVCULnifMKKyldWzIcE?e=hrtvMY
+
 Projetos-Curso-ML-Data-Science-Jose-Portilla
 
 Repositório de estudos do curso Python for Machine Learning & Data Science Masterclass, do professor Jose Portilla (Pierian Data). Iniciei o curso em novembro de 2026 e uso este repositório para registrar, de forma pública e organizada, a minha formação em Ciência de Dados e Machine Learning.
